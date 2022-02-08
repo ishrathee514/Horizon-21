@@ -1,0 +1,220 @@
+body{
+    background-color:rgb(8, 8, 8);
+    margin-left: 20px;
+    margin-right:20px;
+    color:rgb(255, 255, 255);
+}
+h1{
+    font-size:70px;
+}
+
+h3{
+    font-size:40px;
+}
+P{
+    font-size:30px;
+}
+
+.ISTE-logo{
+    width: 70px;
+    margin-left: 95%;
+    margin-top: 0;
+}
+
+.heading{
+        color:rgb(159, 216, 252);
+    font-size:120px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.heading2{
+    color:rgb(159, 216, 252);
+    font-size:40px;
+    text-decoration:underline;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.heading3{
+    color:rgb(159, 216, 252);
+    font-size:40px;
+    text-decoration:underline;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    margin-top: 0px;
+    margin-bottom: 70px;
+}
+
+.video{
+float:right;
+margin-left:10px;
+}
+.about{
+    color:rgb(254, 138, 0);
+    
+        
+}
+.web_dev{
+    float:left;
+    width: 400px;
+    margin-top: 60px;
+    margin-top: 170px;
+}
+.right{
+    float:right;
+    width: 400px;
+    margin-top: 60px;
+    margin-top: 170px;
+}
+.indent{
+    margin-left: 450px;
+    margin-top: 170px;
+}
+.automate{
+    margin-left: 0px;
+    margin-top: 250px;
+}
+.photonix{
+    float:left;
+    margin-top: 100px;
+}
+.photonix_data{
+    margin-left: 600px;
+    margin-top: 130px;
+}
+.code_image{
+    float:right;
+    margin-top:300px;
+}
+.code_data{
+    margin-left: 0px;
+    margin-top: 350px;
+}
+.trophy_image{
+    float:left;
+    margin-top: 170px;
+}
+.trophy_data{
+    margin-left: 20px;
+    margin-top: 180px;
+}
+.background{
+    background-color:black;
+}
+.image{
+    width:350px;
+}
+
+.gold{
+    width:340px;
+    height:150px;
+    
+    
+    
+}
+.white{
+    background-color:aliceblue;
+    width:450px;
+    height:180px;
+    background-size:cover;
+}
+.links{
+    background-color: rgb(129, 10, 123);
+    margin-bottom: none;
+    
+    
+}
+.about_us{
+color: rgb(170, 243, 170);
+}
+.web_head{
+color: rgb(243, 161, 227);
+}
+.auto_head{
+
+color: rgb(149, 194, 245);
+}
+.photo_head{
+color: rgb(248, 149, 56);
+}
+.asy_head{
+
+color: rgb(218, 130, 240);
+}
+.tech_head{
+
+color: rgb(115, 178, 233);
+}
+.speaker_head{
+
+color: rgb(240, 100, 100);
+}
+.sponsor_head{
+
+color: rgb(52, 255, 228);
+}
+.sub_head{
+
+color: rgb(157, 248, 38);
+}
+
+.subt_head{
+color: rgb(241, 38, 150);
+}
+
+.btn{
+    background: #de3ded;
+    background-image: -webkit-linear-gradient(top, #de3ded, #2980b9);
+    background-image: -moz-linear-gradient(top, #de3ded, #2980b9);
+    background-image: -ms-linear-gradient(top, #de3ded, #2980b9);
+    background-image: -o-linear-gradient(top, #de3ded, #2980b9);
+    background-image: linear-gradient(to bottom, #de3ded, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #fc3cfc;
+    background-image: -webkit-linear-gradient(top, #fc3cfc, #3498db);
+    background-image: -moz-linear-gradient(top, #fc3cfc, #3498db);
+    background-image: -ms-linear-gradient(top, #fc3cfc, #3498db);
+    background-image: -o-linear-gradient(top, #fc3cfc, #3498db);
+    background-image: linear-gradient(to bottom, #fc3cfc, #3498db);
+    text-decoration: none;
+  }
+  .btn2 {
+    background: #de3ded;
+    background-image: -webkit-linear-gradient(top, #de3ded, #2980b9);
+    background-image: -moz-linear-gradient(top, #de3ded, #2980b9);
+    background-image: -ms-linear-gradient(top, #de3ded, #2980b9);
+    background-image: -o-linear-gradient(top, #de3ded, #2980b9);
+    background-image: linear-gradient(to bottom, #de3ded, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn2:hover {
+    background: #fc3cfc;
+    background-image: -webkit-linear-gradient(top, #fc3cfc, #3498db);
+    background-image: -moz-linear-gradient(top, #fc3cfc, #3498db);
+    background-image: -ms-linear-gradient(top, #fc3cfc, #3498db);
+    background-image: -o-linear-gradient(top, #fc3cfc, #3498db);
+    background-image: linear-gradient(to bottom, #fc3cfc, #3498db);
+    text-decoration: none;
+  }
